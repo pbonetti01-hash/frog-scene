@@ -4,14 +4,6 @@ A serene, stylized 3D environment created in Unity featuring cute, low-poly frog
 
 ---
 
-## 📸 Scene Preview
-
-| Main View |
-| :---: |
-| <img width="1232" height="696" alt="Captura de tela 2026-05-22 104821" src="https://github.com/user-attachments/assets/79e1e863-0bc4-4ad1-9f24-25df32d153e6" /> |
-
----
-
 ## 🛠️ Project Details & Specifications
 
 * **Game Engine:** Unity (3D)
@@ -19,7 +11,7 @@ A serene, stylized 3D environment created in Unity featuring cute, low-poly frog
 * **Texturing Software:** Krita (All environment and character textures are 100% hand-painted/custom-made)
 * **Skybox Asset:** *Fantasy Skybox FREE* (Unity Asset Store)
 
----
+<img width="1232" height="696" alt="Captura de tela 2026-05-22 104821" src="https://github.com/user-attachments/assets/79e1e863-0bc4-4ad1-9f24-25df32d153e6" />
 
 ## ✨ Key Features & Components
 
@@ -37,6 +29,8 @@ The project utilizes **two custom shaders** developed from scratch to achieve th
     * A custom lighting/toon shader designed to bring out the hand-painted details from Krita without relying on realistic PBR lighting.
     * Maintains vibrant, saturated colors matching the overall dream-like aesthetic.
 
+<img width="1411" height="695" alt="Captura de tela 2026-05-22 105239" src="https://github.com/user-attachments/assets/86885ff9-9205-4169-bf87-1c584034bb9c" />
+
 ### 🌧️ 3. Particle Systems
 * **Custom Rain System:** A lightweight, optimized Unity Particle System designed to create soft, atmospheric rain droplets that fall over the pond, enhancing the cozy mood of the environment.
 
@@ -51,7 +45,8 @@ The project utilizes **two custom shaders** developed from scratch to achieve th
 - [ ] Implement interactive water ripples when frogs jump or rain particles hit the surface.
 - [ ] Add ambient sound effects (soft rain, frog croaks, gentle wind).
 
----
+<img width="1350" height="678" alt="Captura de tela 2026-05-22 105320" src="https://github.com/user-attachments/assets/227ec2e1-1b47-402f-ae11-183a0b03919a" />
+
 
 ### 📝 Author's Note
 > "This scene was a wonderful exercise in combining hand-painted texturing techniques using Krita with Unity's technical art capabilities (shaders and particles). The goal was to create a cozy, visually relaxing space."
